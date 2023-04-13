@@ -5,9 +5,9 @@ let options =
     // Pass your App ID here.
     appId: '68991858190d409db8aa82beb2896a71',
     // Set the channel name.
-    channel: 'test_kastro',
+    channel: 'live_streaming',
     // Pass your temp token here.
-    token: '007eJxTYNhd0pqwLInZk8U8Lqz56P3VrEYrFk13jIk2WeQekznzRZoCg5mFpaWhhamFoaVBiomBZUqSRWKihVFSapKRhaVZornh7BizlIZARob61QEsjAwQCOJzM5SkFpfEZycWlxTlMzAAAHW9H/4=',
+    token: '007eJxTYFAzvZGbu9ZGZyXvSoX/QuztnPc6H/7VzemS2RvY5FYUEabAYGZhaWloYWphaGmQYmJgmZJkkZhoYZSUmmRkYWmWaG4YzGiR0hDIyCD7I4SZkYGRgQWIQXwmMMkMJlnAJB9DTmZZanxxSVFqYm5mXjoDAwDImSK3',
     // Set the user ID.
     uid: 0,
     // Set the user role
